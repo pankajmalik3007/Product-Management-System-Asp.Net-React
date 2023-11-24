@@ -1,0 +1,50 @@
+/* CategoryList.css */
+.category-list-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .error-message {
+    color: red;
+  }
+  
+  .category-table {
+    width: 60%; /* Adjust the width as needed */
+    margin-top: 20px;
+    margin-bottom: 20px; /* Add margin-bottom for spacing */
+    border-collapse: collapse;
+  }
+  
+  .category-table th, .category-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .category-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .modal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .modal-content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    width: 300px;
+  }
+  
+  .modal-content h2 {
+    margin-bottom: 16px;
+  }
+  
+  .modal-content button {
+    margin-right: 8px;
+  }
+  
