@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HIgZElolzZcuZ9Nwb+DD1Ou2QSKveoJ8PDQ6R48wOtrQBrAek/xfrGI70K0uriIOFT0xs2gAWX9IFiGrZTc9ug==",
+  "dgSpecHash": "s04QiqMjWNv9c2byNNdXr00WUqyvMpo9WZd1guobTTgg0VdQ2TmWurE0+Dc8UU86u16iNic8EN54OFPr6tAYnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\TGSUser148\\Downloads\\Product_Management_Test_React\\Product_Management_Test_React\\myapp\\Test_Product_Management_Module\\Test_Product_Management_Module\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\TGSUser148\\Downloads\\Product_Management_Test_React\\Product_Management_Test_React\\myapp\\Backend\\Test_Product_Management_Module\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TGSUser148\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\TGSUser148\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

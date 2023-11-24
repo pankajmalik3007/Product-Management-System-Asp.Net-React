@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Infrastructure
-build_property.ProjectDir = C:\Users\TGSUser148\Downloads\Product_Management_Test_React\Product_Management_Test_React\myapp\Test_Product_Management_Module\Test_Product_Management_Module\Infrastructure\
+build_property.ProjectDir = C:\Users\TGSUser148\Downloads\Product_Management_Test_React\Product_Management_Test_React\myapp\Backend\Test_Product_Management_Module\Infrastructure\

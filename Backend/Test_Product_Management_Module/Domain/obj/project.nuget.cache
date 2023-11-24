@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DYfGVmBjMh4Rqw54wD4OKnbHAOlna22ZooBQ9AFdWzRTUYF/Es7OHVgrXRgwgXmc31sVWTx+F06aNctyok+R2A==",
+  "dgSpecHash": "Lkwy5Ge4T+edHVaYW670PqPGuJ48DCfecwbuqW7a14NcZO+vbK04oSAKsJIt6dfJWp/0LFPAAd4qaI7dlaOADw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\TGSUser148\\Downloads\\Product_Management_Test_React\\Product_Management_Test_React\\myapp\\Test_Product_Management_Module\\Test_Product_Management_Module\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\TGSUser148\\Downloads\\Product_Management_Test_React\\Product_Management_Test_React\\myapp\\Backend\\Test_Product_Management_Module\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TGSUser148\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
     "C:\\Users\\TGSUser148\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.10\\microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",

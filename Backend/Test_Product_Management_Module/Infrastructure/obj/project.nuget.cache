@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZWgHDBkypvMtXxmVM+cnDwTuMHnHuMRhewCvjVGqVBSZX7cfbhZALPc4zfL1WtZp9hOUK5L1uwc5zqmkK0bKDg==",
+  "dgSpecHash": "4MIW6dMjEa4kP+Px8DGz5IsCIdWJkd8qTPVE0yGMBfKqtuw+G5xrTN83XMRwHmKXVKAd/MD7Jo89ZrZWkSEvGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\TGSUser148\\Downloads\\Product_Management_Test_React\\Product_Management_Test_React\\myapp\\Test_Product_Management_Module\\Test_Product_Management_Module\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\TGSUser148\\Downloads\\Product_Management_Test_React\\Product_Management_Test_React\\myapp\\Backend\\Test_Product_Management_Module\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TGSUser148\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\TGSUser148\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
